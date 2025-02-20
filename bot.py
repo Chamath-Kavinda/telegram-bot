@@ -3,8 +3,8 @@ from aiogram.types import ReplyKeyboardMarkup, KeyboardButton, WebAppInfo
 from aiogram.utils import executor
 
 # Replace this with your actual bot token from BotFather
-BOT_TOKEN = "YOUR_BOT_TOKEN"
-WEB_APP_URL = "https://yourapp.com"  # Replace with your Mini App URL
+BOT_TOKEN = "7937438041:AAFu0Btg_S2-yA-bo4PVixy9Jqe_eYk1hfk"
+WEB_APP_URL = "https://bbkriket.com/chama/"  # Replace with your Mini App URL
 
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher(bot)
